@@ -3,7 +3,7 @@ Natural Language Generation (NLG) using RNN to generate tv scripts
 
 Works well with tensorflow 1.3; avoid 1.4 as there are difficulties with LSTM cells.
 
-Here is the generated text :
+Here is the generated text for the Simpson Dataset :
 
 **moe_szyslak:**(cheering up) yeah. yeah, you know, that actually makes me feel bad as they wanted to even beloved!
 **carl_carlson:**(hurt chuckle) well, thank all your money for my best friend.
@@ -14,6 +14,6 @@ Here is the generated text :
 **moe_szyslak**: wow, thanks a lot.(points to self) why, i love this was on the other...
 
 
-moe_szyslak: this is the kind of world went to the super bowl / the funds at the truck of the kind of self-esteem!
-homer_simpson: i can't afford drunk if you can ride over.
-moe_szyslak: no, he's right, moe. back when i love her.
+**moe_szyslak**: this is the kind of world went to the super bowl / the funds at the truck of the kind of self-esteem!
+**homer_simpson**: i can't afford drunk if you can ride over.
+**moe_szyslak**: no, he's right, moe. back when i love her.
